@@ -7,9 +7,7 @@ Socials:
 
 Study:
 
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)(https://www.codecademy.com/profiles/halyna.riabokonenko)
 [![CodeWars](https://www.codewars.com/users/Halyna%20Riabokonenko/badges/small)](https://www.codewars.com/users/Halyna%20Riabokonenko)
 
 
