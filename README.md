@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I'm a Junior Frontend Developer with 4 years of experience as an Automation Tester.
+
+
 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halriab/)
