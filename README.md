@@ -4,7 +4,7 @@ I'm a Junior Frontend Developer with 4 years of experience as an Automation Test
 
 My portfolio project: 
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HalynaRiabokonenko/cookbook)   
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HalynaRiabokonenko/cookbook)
 [![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)](https://cookbook-34a7d.web.app/)
 
 
