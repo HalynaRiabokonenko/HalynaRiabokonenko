@@ -2,7 +2,7 @@
 
 I'm a Junior Frontend Developer with 4 years of experience as an Automation Tester.
 
-My portfolio project: https://cookbook-34a7d.web.app/
+My portfolio project: https://github.com/HalynaRiabokonenko/cookbook -> https://cookbook-34a7d.web.app/
 
 
 Socials:
