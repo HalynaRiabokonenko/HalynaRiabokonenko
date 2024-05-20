@@ -46,6 +46,8 @@ Languages and Tools:
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+![Radix UI](https://img.shields.io/badge/radix%20ui-161618.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+
 Stats:
 
 ![HalynaRiabokonenko's Stats](https://github-readme-stats.vercel.app/api?username=HalynaRiabokonenko&theme=react&show_icons=true&hide_border=true&count_private=true)
