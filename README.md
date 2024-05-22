@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior Frontend Developer with almost 4 years of experience as an Automation Tester.
+I'm a Junior Frontend Developer with 3 years of experience as an Automation Tester.
 
 My portfolio project: 
 
