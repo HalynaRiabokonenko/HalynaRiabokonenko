@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm a Junior Frontend Developer with 3-years expirience in automation testing.  
-Graduated student of InfoShare Academy, having hands-on experience with frontend technologies including JavaScript, TypeScript, React.js, Firebase, CSS, HTML, Radix-UI, Tailwind CSS and Git.
+I'm a graduated student of InfoShare Academy, having hands-on experience with frontend technologies including JavaScript, TypeScript, React.js, Firebase, CSS, HTML, Radix-UI, Tailwind CSS and Git.
 
 My portfolio project: 
 
